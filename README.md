@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is **Bartek Bogdanowicz**, I was born in 1994.  
+Currently I live in Poland and this is beginning of my journey as a **Front-end Web Developer**
+
+- 🌱 I’m currently learning Front-end (**_JavaScript_ and _React_**) 
+- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/bartosz-bogdanowicz-0540732a1/)
 <!--
-**BartekB94/BartekB94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
