@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 My name is **Bartek Bogdanowicz**, I was born in 1994.  
-Currently I live in Poland and this is beginning of my journey as a **Front-end Web Developer**
 
 - 🌱 I’m currently learning Front-end (**_JavaScript_ and _React_**) 
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/bartosz-bogdanowicz-0540732a1/)
