@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Bartek Bogdanowicz**, I am 30 years old. 
+My name is **Bartek Bogdanowicz**.
 
 - 🌱 I’m currently learning Front-end (**_JavaScript_ and _React_**) 
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/bartosz-bogdanowicz-0540732a1/)
