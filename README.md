@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Bartek+Bogdanowicz)](https://github.com/BartekB94)
 
 
+
 - 🌱 I’m currently learning Front-end (**_JavaScript_ and _React_**)
 -  🔭 I’m currently working on features that came in with ES6 and after it
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/bartosz-bogdanowicz-0540732a1/)
