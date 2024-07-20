@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning Front-end (**_JavaScript_ and _React_**)
--  🔭 I’m currently working on features that came in with ES6 and after it
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/bartosz-bogdanowicz-0540732a1/)
 <!--
 - ⚡ Fun fact: I was hosting my own server with MMORPG game as a kid, and back then I had no idea that I was 'coding' by editing some scripts to change game experience for other players 💪
