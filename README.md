@@ -23,8 +23,17 @@
   
   <br/><br/><br/>
 </div>
+
           
 <!--
+
+<div align=center>
+  <img width=390 src="https://streak-stats.vercel.app/?user=BartekB94&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=BartekB94&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartekB94&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 <div align="center">
     <a href="mailto:wurir1994@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -44,7 +53,7 @@
       
 
 
-dodac do gmail, linkedIn:
+dodac do gmail i linkedIn:
   <a href="https://myportfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
