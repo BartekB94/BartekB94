@@ -13,8 +13,23 @@
   </p>
 </div>
 
+<br/><br/>
+
+<div align="center">
+    <h3>Contact me via: <a href="mailto:wurir1994@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a><a href="https://www.linkedin.com/in/bartekb94/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    </h3>
+
+</div>
+
+<br/>
 
 ---
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -24,8 +39,10 @@
   <br/><br/><br/>
 </div>
 
+---
+
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartekB94&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartekB94&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=BartekB94&count_private=true&&hide=stars&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -35,14 +52,7 @@
 <!--
 
 
-<div align="center">
-    <a href="mailto:wurir1994@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/bartekb94/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+
 
 ---
   
